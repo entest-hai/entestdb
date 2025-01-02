@@ -7,5 +7,5 @@ date: 02/01/2025
 ## Todo
 
 - [x] File Manager
-- [] Buffer Manager
-- [] Write-Ahead Log
+- [ ] Buffer Manager
+- [ ] Write-Ahead Log
