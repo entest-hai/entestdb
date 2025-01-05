@@ -10,7 +10,7 @@ import (
 	"unsafe"
 )
 
-const PageSize = 1024 * 8
+const PageSize = 1024 * 4
 
 // IntSize is the byte size of the system's int
 const IntSize = int(unsafe.Sizeof(int(123)))
